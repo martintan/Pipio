@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pipio Merchant</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="add_members">Add Members</string>
+    <string name="add_points">Add Points</string>
+    <string name="redeem_points">Redeem Points</string>
+</resources>
